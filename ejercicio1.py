@@ -1,1 +1,1 @@
-frase=
+frase=str('ingrese farse')
